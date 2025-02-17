@@ -13,3 +13,4 @@ def perform_operation(num1, num2,operation):
         else:
             print("Wrong data type")
     
+print(perform_operation(5,6,'add'))
